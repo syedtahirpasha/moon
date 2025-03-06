@@ -1,1 +1,2 @@
-print "this is a simple python demo project"
+print("this is a simple python demo project")
+
